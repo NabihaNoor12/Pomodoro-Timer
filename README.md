@@ -35,24 +35,24 @@ Designed not just to fulfill academic requirements, but to create a tool that's 
 
 > 🌼 **Home (Light Mode)**  
 > Login to your own cozy workspace!
-> ![Front Page](images/frontend.png)
+> ![Front Page](frontend.png)
 
 
 > 🌙 **Dark Mode**  
 > Focus late into the night with our soothing moonlit palette.
-> ![Dark mode](images/front.png)
+> ![Dark mode](front.png)
 
 > 🍅 **Timer & Tasks View**  
 > Everything you need in one view: your timer, your tasks, your vibe.
-> ![Timer](images/ss.png)
-![Tasks](images/ss2.png)
+> ![Timer](ss.png)
+![Tasks](ss2.png)
 ---
 
 ## 🧠 ER Diagram
 
 Visual representation of the Pomodoro+ database design:
 
-![ER Diagram](images/Pomodorotimer4.png)
+![ER Diagram](PomodoroTimer4.png)
 
 ---
 
